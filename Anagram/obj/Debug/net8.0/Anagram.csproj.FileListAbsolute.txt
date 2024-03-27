@@ -12,3 +12,4 @@ D:\C#\Anagram.Solution\Anagram\obj\Debug\net8.0\refint\Anagram.dll
 D:\C#\Anagram.Solution\Anagram\obj\Debug\net8.0\Anagram.pdb
 D:\C#\Anagram.Solution\Anagram\obj\Debug\net8.0\Anagram.genruntimeconfig.cache
 D:\C#\Anagram.Solution\Anagram\obj\Debug\net8.0\ref\Anagram.dll
+D:\C#\Anagram.Solution\Anagram\obj\Debug\net8.0\Anagram.sourcelink.json
